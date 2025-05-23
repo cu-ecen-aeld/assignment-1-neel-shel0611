@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This code was fully generated using ChatGPT at https://chat.openai.com/ 
 # Set default values if not provided
 numfiles=${1:-10}
 writestr=${2:-"AELD_IS_FUN"}

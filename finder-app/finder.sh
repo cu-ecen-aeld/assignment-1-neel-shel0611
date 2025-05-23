@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This code was fully generated using ChatGPT at https://chat.openai.com/
 # Check if exactly two arguments are provided
 if [ $# -ne 2 ]; then
     echo "Error: Two arguments required. Usage: $0 <directory> <search_string>"
