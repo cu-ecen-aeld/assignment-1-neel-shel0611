@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # This code was fully generated using ChatGPT at https://chat.openai.com/
 
 if [ $# -ne 2 ]; then
